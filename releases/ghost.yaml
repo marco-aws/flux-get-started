@@ -10,7 +10,7 @@ metadata:
 spec:
   releaseName: ghost
   chart:
-    git: ssh://marco-aws@github.com/fluxcd/flux-get-started
+    git: ssh://git@github.com/marco-aws/flux-get-started
     ref: master
     path: charts/ghost
   values:
